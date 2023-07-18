@@ -12,7 +12,7 @@ variable "cidr_public" {
 }
 
 variable "cidr_private" {
-    description = "cidr of private"  
+    description = "cidr of private subnet"  
 }
 
 variable "cidr_data" {
